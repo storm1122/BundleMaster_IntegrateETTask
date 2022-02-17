@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 2376144724
+CRC: 175372518
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 266a811efedbc44a52445d9e67005f42
+    Hash: 6b4dd44282cabafc1e37459fd8e21e25
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 7e4e81b586c36fda88ba73180982b3db
+    Hash: bb28e223b524cc6b7637a7337cb8f8b5
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -31,4 +31,4 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Bundles/SubBundleAssets/mister91jiao.prefab
 Dependencies:
-- G:/UnityProject/BundleMaster_IntegrateETTask/BuildBundles/AllBundle/allbundle_assets_res_texture_91logo_png.bundle
+- D:/git_proj/BundleMaster_IntegrateETTask/BuildBundles/AllBundle/allbundle_assets_res_texture_91logo_png.bundle

@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 1701416344
+CRC: 47801266
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 3ecc5b41e30071d6f8c4e372dd6e7e8e
+    Hash: b994dc3a953fe3655f95bb159f2cefe0
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 7bd02f4b646d5fe2d4cf50cb207c424f
+    Hash: c9c8d79e9bcdbb954e86d579106739c8
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -18,9 +18,9 @@ ClassTypes:
 - Class: 48
   Script: {instanceID: 0}
 - Class: 114
-  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
-- Class: 114
   Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
 - Class: 115
@@ -33,26 +33,10 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 224
   Script: {instanceID: 0}
-SerializeReferenceClassIdentifiers:
-- AssemblyName: UnityEngine.CoreModule
-  ClassName: UnityEngine.Events.PersistentCallGroup
-- AssemblyName: UnityEngine.UI
-  ClassName: UnityEngine.UI.AnimationTriggers
-- AssemblyName: UnityEngine.UI
-  ClassName: UnityEngine.UI.Button/ButtonClickedEvent
-- AssemblyName: UnityEngine.UI
-  ClassName: UnityEngine.UI.ColorBlock
-- AssemblyName: UnityEngine.UI
-  ClassName: UnityEngine.UI.FontData
-- AssemblyName: UnityEngine.UI
-  ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
-- AssemblyName: UnityEngine.UI
-  ClassName: UnityEngine.UI.Navigation
-- AssemblyName: UnityEngine.UI
-  ClassName: UnityEngine.UI.SpriteState
+SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Bundles/LoginUI.prefab
 Dependencies:
-- G:/UnityProject/BundleMaster_IntegrateETTask/BuildBundles/AllBundle/allbundle_assets_bundles_loginbg_jpg.bundle
-- G:/UnityProject/BundleMaster_IntegrateETTask/BuildBundles/AllBundle/allbundle_assets_bundles_subui_prefab.bundle
-- G:/UnityProject/BundleMaster_IntegrateETTask/BuildBundles/AllBundle/allbundle_assets_res_texture_91logo_png.bundle
+- D:/git_proj/BundleMaster_IntegrateETTask/BuildBundles/AllBundle/allbundle_assets_bundles_loginbg_jpg.bundle
+- D:/git_proj/BundleMaster_IntegrateETTask/BuildBundles/AllBundle/allbundle_assets_bundles_subui_prefab.bundle
+- D:/git_proj/BundleMaster_IntegrateETTask/BuildBundles/AllBundle/allbundle_assets_res_texture_91logo_png.bundle
