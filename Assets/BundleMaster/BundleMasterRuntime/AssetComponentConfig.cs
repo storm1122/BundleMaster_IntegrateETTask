@@ -11,7 +11,7 @@ namespace BM
         /// <summary>
         /// 加载模式
         /// </summary>
-        public static AssetLoadMode AssetLoadMode = AssetLoadMode.Local;
+        public static AssetLoadMode AssetLoadMode = AssetLoadMode.Develop;
         
         /// <summary>
         /// 资源更新目录 Application.dataPath + "/../HotfixBundles/"
@@ -26,7 +26,10 @@ namespace BM
         /// <summary>
         /// 资源服务器的地址
         /// </summary>
-        public static string BundleServerUrl = @"http://192.168.50.157/BundleData/";
+        //public static string BundleServerUrl = @"http://192.168.50.157/BundleData/";
+        public static string BundleServerUrl = @"http://127.0.0.1/assetbundle/";//宝塔面板
+
+        
 
         /// <summary>
         /// 最大同时下载的资源数量
